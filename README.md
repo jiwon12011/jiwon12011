@@ -91,19 +91,3 @@ Claude Code 기반 **6인 AI 에이전트 팀**과 함께 기획부터 구현까
 | 🎨 | **Designer** | 여백 · 타이포 · 정렬 디테일 튜닝 |
 
 </div>
-
-<br/>
-
-<!-- ===== STATS ===== -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiwon12011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=EC4899&icon_color=EC4899" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon12011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=EC4899" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwon12011&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" width="60%" />
-
-</div>
