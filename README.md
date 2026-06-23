@@ -26,10 +26,6 @@
 <td>🌱 &nbsp;<b>Learning</b></td>
 <td>AI Workflow · Supabase</td>
 </tr>
-<tr>
-<td>💜 &nbsp;<b>Style</b></td>
-<td>대담한 비주얼 & 글래스모피즘</td>
-</tr>
 </table>
 
 [![Gmail](https://img.shields.io/badge/jiwon12011@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jiwon12011@gmail.com)
@@ -109,14 +105,5 @@ Claude Code 기반 **6인 AI 에이전트 팀**과 함께 기획부터 구현까
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwon12011&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" width="60%" />
-
-</div>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jiwon12011&style=flat-square&color=EC4899&label=Profile+Views" />
 
 </div>
