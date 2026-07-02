@@ -23,7 +23,7 @@
   <img src="assets/header-about-light.svg" width="850" alt="(01) About">
 </picture>
 
-기획부터 구현까지 연결하는 **Web Planner & UI/UX Designer** 입니다.
+**Web Planner & UI/UX Designer** 서지원입니다.
 대담한 비주얼과 인터랙션으로 감각적인 웹 경험을 만듭니다. 화면 설계에서 멈추지 않고,
 GSAP 인터랙션과 성능까지 직접 코드로 마감합니다.
 
