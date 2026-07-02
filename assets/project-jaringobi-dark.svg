@@ -1,0 +1,32 @@
+<svg width="416" height="200" viewBox="0 0 416 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jaringobi — project">
+  <defs>
+    <clipPath id="f-p-jaringobi-dark"><rect width="416" height="200" rx="14"/></clipPath>
+    <filter id="noise-p-jaringobi-dark">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.55, 0 0 0 0 0.55, 0 0 0 0 0.6, 0 0 0 0.05 0"/>
+    </filter>
+    <filter id="soft-p-jaringobi-dark" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  </defs>
+  <g clip-path="url(#f-p-jaringobi-dark)">
+    <rect width="416" height="200" fill="#0B0B0E"/>
+    <g filter="url(#soft-p-jaringobi-dark)">
+      <ellipse cx="416" cy="200" rx="170" ry="110" fill="#8B5CF6" opacity="0.16">
+        <animate attributeName="opacity" values="0.16;0.06;0.16" dur="7s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <rect width="416" height="200" filter="url(#noise-p-jaringobi-dark)" opacity="1"/>
+
+    <text x="28" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.5" fill="#8B5CF6">(02)</text>
+    <text x="388" y="40" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="9.5" letter-spacing="1.5" fill="#5C5C66">APP / FINANCE</text>
+
+    <text x="28" y="94" font-family="'Helvetica Neue',-apple-system,'Segoe UI',Arial,sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#EDEDF2">Jaringobi</text>
+    <text x="28" y="120" font-family="'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR','Segoe UI',sans-serif" font-size="12.5" fill="#8A8A96">가계부 · 예산 관리 앱, Play Store 출시</text>
+
+    <rect x="28" y="150" width="360" height="1" fill="#1F1F26"/>
+    <text x="28" y="177" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="0.5" fill="#5C5C66">TypeScript · PWA</text>
+    <text x="358" y="177" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="1.5" fill="#EDEDF2">VIEW</text>
+    <path d="M368 168 h7 v7 M375 168 l-9 9" stroke="#8B5CF6" stroke-width="1.5" fill="none"/>
+
+    <rect x="0.5" y="0.5" width="415" height="199" rx="13.5" stroke="#1F1F26" fill="none"/>
+  </g>
+</svg>

@@ -1,93 +1,172 @@
-<!-- ===== HEADER ===== -->
+<!-- ============================================================
+     JIWON — GitHub Profile
+     Design system: dark editorial · hairlines · mono labels
+     All SVG assets are hand-built and live in /assets
+     Dark/Light auto-switching via <picture> prefers-color-scheme
+============================================================= -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=기획부터+구현까지+연결하는+디자이너+%F0%9F%8E%A8;UI%2FUX+%7C+Interaction+%7C+Branding;감각적인+웹+경험을+만듭니다)](https://git.io/typing-svg)
-
-**Web Planner · UI/UX Designer**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="850" alt="JIWON — Design, then build. Web Planner · UI/UX Designer">
+</picture>
 
 </div>
 
-<br/>
+<br>
 
-<!-- ===== ABOUT ===== -->
-<div align="center">
+<!-- ===== 01 ABOUT ===== -->
 
-## 👋 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-about-dark.svg">
+  <img src="assets/header-about-light.svg" width="850" alt="(01) About">
+</picture>
 
-기획부터 구현까지 연결하는 **Web Planner & UI/UX Designer**  
-대담한 비주얼과 인터랙션으로 감각적인 웹 경험을 만듭니다 🎨
+기획부터 구현까지 연결하는 **Web Planner & UI/UX Designer** 입니다.
+대담한 비주얼과 인터랙션으로 감각적인 웹 경험을 만듭니다. 화면 설계에서 멈추지 않고,
+GSAP 인터랙션과 성능까지 직접 코드로 마감합니다.
 
-<table align="center">
+**[PORTFOLIO ↗](https://jiwon12011.github.io/portfolio/)** &nbsp;·&nbsp; **[EMAIL ↗](mailto:jiwon12011@gmail.com)**
+
+<br>
+
+<!-- ===== 02 TECH STACK ===== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-stack-dark.svg">
+  <img src="assets/header-stack-light.svg" width="850" alt="(02) Tech Stack">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="850" alt="Core: HTML5, CSS3, JavaScript, TypeScript, GSAP, Figma, Git — Next: AI Workflow, Claude Code, Supabase">
+</picture>
+
+<br>
+<br>
+
+<!-- ===== 03 FEATURED PROJECTS ===== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-projects-dark.svg">
+  <img src="assets/header-projects-light.svg" width="850" alt="(03) Featured Projects">
+</picture>
+
+<table width="100%">
 <tr>
-<td>🎯 &nbsp;<b>Focus</b></td>
-<td>UI/UX · Interaction · Branding</td>
+<td width="50%" align="center">
+<a href="https://jiwon12011.github.io/portfolio/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-portfolio-dark.svg">
+  <img src="assets/project-portfolio-light.svg" width="100%" alt="Portfolio — 인터랙션 중심 개인 포트폴리오">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://1team-jaringobi.vercel.app/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-jaringobi-dark.svg">
+  <img src="assets/project-jaringobi-light.svg" width="100%" alt="Jaringobi — 가계부·예산 관리 앱, Play Store 출시">
+</picture>
+</a>
+</td>
 </tr>
 <tr>
-<td>🌱 &nbsp;<b>Learning</b></td>
-<td>AI Workflow · Supabase</td>
+<td width="50%" align="center">
+<a href="https://jiwon12011.github.io/RIPE/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-ripe-dark.svg">
+  <img src="assets/project-ripe-light.svg" width="100%" alt="RIPE — 향수 브랜드 웹사이트·브랜딩">
+</picture>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://jiwon12011.github.io/Yumi-s-Cells/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-yumi-dark.svg">
+  <img src="assets/project-yumi-light.svg" width="100%" alt="Yumi's Cells — 웹툰 테마 인터랙티브 팬페이지">
+</picture>
+</a>
+</td>
 </tr>
 </table>
 
-[![Gmail](https://img.shields.io/badge/jiwon12011@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jiwon12011@gmail.com)
-[![GitHub](https://img.shields.io/badge/@jiwon12011-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011)
+<details>
+<summary><b>&nbsp;MORE PROJECTS</b> — 그 외 작업들</summary>
+<br>
 
-</div>
+| Project | About | Links |
+|:--|:--|:--|
+| **Hon Promotion** | 귀혼 프로모션 사이트 | [Live ↗](https://jiwon12011.github.io/hon_promotion/) · [Code](https://github.com/jiwon12011/hon_promotion) |
+| **Sangsangdoor** | 상상의문 브랜드 사이트 | [Live ↗](https://jiwon12011.github.io/sangsangdoor_jw/) · [Code](https://github.com/jiwon12011/sangsangdoor_jw) |
+| **Pledis** | 플레디스 엔터테인먼트 리디자인 | [Live ↗](https://jiwon12011.github.io/pledis/) · [Code](https://github.com/jiwon12011/pledis) |
+| **MathHub** | 수학 학습 플랫폼 | [Live ↗](https://jiwon12011.github.io/mathhub/) · [Code](https://github.com/jiwon12011/mathhub) |
+| **Pixel Game** | 인터랙티브 픽셀 게임 | [Live ↗](https://jiwon12011.github.io/pixel_game/) · [Code](https://github.com/jiwon12011/pixel_game) |
+| **Music Note Game** | 음악 노트 게임 | [Live ↗](https://jiwon12011.github.io/music-note_game/) · [Code](https://github.com/jiwon12011/music-note_game) |
 
-<br/>
+</details>
 
-<!-- ===== TECH STACK ===== -->
-<div align="center">
+<br>
 
-## 🛠 Tech Stack
+<!-- ===== 04 GITHUB STATS ===== -->
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-stats-dark.svg">
+  <img src="assets/header-stats-light.svg" width="850" alt="(04) GitHub Stats">
+</picture>
 
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jiwon12011&show_icons=true&title_color=EC4899&icon_color=8B5CF6&text_color=C7C7D1&bg_color=0B0B0E&border_color=1F1F26&border_radius=14&hide_title=false&rank_icon=percentile">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiwon12011&show_icons=true&title_color=DB2777&icon_color=7C3AED&text_color=3F3F48&bg_color=FCFCFD&border_color=E6E6EA&border_radius=14&rank_icon=percentile" width="100%" alt="GitHub stats">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiwon12011&background=0B0B0E&border=1F1F26&ring=EC4899&fire=EC4899&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=EC4899&sideLabels=8A8A96&dates=5C5C66&border_radius=14">
+  <img src="https://streak-stats.demolab.com?user=jiwon12011&background=FCFCFD&border=E6E6EA&ring=DB2777&fire=DB2777&currStreakNum=131318&sideNums=131318&currStreakLabel=DB2777&sideLabels=6E6E78&dates=9A9AA4&border_radius=14" width="100%" alt="GitHub streak">
+</picture>
+</td>
+</tr>
+</table>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiwon12011&bg_color=0B0B0E&color=8A8A96&line=EC4899&point=EDEDF2&area=true&area_color=EC4899&hide_border=false&border_color=1F1F26&radius=14&custom_title=Contribution%20Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiwon12011&bg_color=FCFCFD&color=6E6E78&line=DB2777&point=131318&area=true&area_color=DB2777&hide_border=false&border_color=E6E6EA&radius=14&custom_title=Contribution%20Graph" width="850" alt="Contribution graph">
+</picture>
 
-<!-- ===== PROJECTS ===== -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiwon12011/jiwon12011/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/jiwon12011/jiwon12011/output/snake-light.svg" width="850" alt="Contribution snake">
+</picture>
 
-## ⭐ Featured Projects
+<br>
+<br>
 
-| Project | Description | Links |
-|:---:|:---:|:---:|
-| 🎨 **Portfolio** | 개인 포트폴리오 웹사이트 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/portfolio/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/portfolio) |
-| 🌿 **Ripe** | 향수 브랜딩 웹사이트 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/RIPE/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/RIPE) |
-| 🔥 **Hon Promotion** | 귀혼 프로모션 사이트 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/hon_promotion/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/hon_promotion) |
-| 💰 **Jaringobi** | 가계부 · 예산 관리 앱 (TypeScript) | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://1team-jaringobi.vercel.app/) [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=jaringobi.myapp) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/jaringobi) |
-| 🧫 **Yumi's Cells** | 웹툰 테마 인터랙티브 페이지 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/Yumi-s-Cells/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/Yumi-s-Cells) |
-| 🚪 **Sangsangdoor** | 상상의문 브랜드 사이트 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/sangsangdoor_jw/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/sangsangdoor_jw) |
-| 📐 **MathHub** | 수학 학습 플랫폼 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/mathhub/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/mathhub) |
-| 🎶 **Pledis** | 플레디스 엔터 리디자인 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/pledis/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/pledis) |
-| 🎮 **Pixel Game** | 인터랙티브 픽셀 게임 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/pixel_game/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/pixel_game) |
-| 🎵 **Music Note Game** | 음악 노트 게임 | [![Live](https://img.shields.io/badge/Live-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://jiwon12011.github.io/music-note_game/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jiwon12011/music-note_game) |
+<!-- ===== 05 AI TEAM ===== -->
 
-</div>
-
-<br/>
-
-<!-- ===== TEAM ===== -->
-<div align="center">
-
-## 🤖 My AI Team
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-team-dark.svg">
+  <img src="assets/header-team-light.svg" width="850" alt="(05) AI Team">
+</picture>
 
 Claude Code 기반 **6인 AI 에이전트 팀**과 함께 기획부터 구현까지 진행합니다.
 
-| | Role | What they do |
-|:---:|:---:|:---:|
-| 👑 | **Team Lead** | 계획·분담·점검, 의견 충돌 시 최종 결정 |
-| 💻 | **Developer** | 유지보수 가능하고 똑똑한 구현 · 딥개발 |
-| 🎬 | **Motion Engineer** | GSAP · ScrollTrigger · Lenis 스크롤 연출 |
-| ⚡ | **Perf Engineer** | 로딩 · Core Web Vitals · 60fps 성능 |
-| 💡 | **Ideator** | 아이디어 · 차별화 · 트렌드 · 카피 |
-| 🎨 | **Designer** | 여백 · 타이포 · 정렬 디테일 튜닝 |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/team-dark.svg">
+  <img src="assets/team-light.svg" width="850" alt="Claude Code agent roster — Team Lead, Developer, Motion, Performance, Ideator, Designer">
+</picture>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="850" alt="© 2026 JIWON — Design, then build.">
+</picture>
 
 </div>
