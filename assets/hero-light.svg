@@ -24,7 +24,7 @@
     <rect width="850" height="300" filter="url(#noise-h-light)" opacity="1"/>
 
     <!-- top meta -->
-    <text x="36" y="44" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2" fill="#6E6E78">JIWON — PROFILE</text>
+    <text x="36" y="44" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2" fill="#6E6E78">SEO JIWON — PROFILE</text>
     <text x="814" y="44" text-anchor="end" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" letter-spacing="2" fill="#6E6E78">SEOUL, KR · UTC+9</text>
     <rect x="36" y="58" width="778" height="1" fill="#E6E6EA"/>
 
