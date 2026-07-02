@@ -119,8 +119,8 @@ GSAP 인터랙션과 성능까지 직접 코드로 마감합니다.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiwon12011&background=0B0B0E&border=1F1F26&ring=EC4899&fire=EC4899&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=EC4899&sideLabels=8A8A96&dates=5C5C66&border_radius=14&date_format=Y.%20M%20j">
-  <img src="https://streak-stats.demolab.com?user=jiwon12011&background=FCFCFD&border=E6E6EA&ring=DB2777&fire=DB2777&currStreakNum=131318&sideNums=131318&currStreakLabel=DB2777&sideLabels=6E6E78&dates=9A9AA4&border_radius=14&date_format=Y.%20M%20j" alt="GitHub streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiwon12011&background=0B0B0E&border=1F1F26&ring=EC4899&fire=EC4899&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=EC4899&sideLabels=8A8A96&dates=5C5C66&border_radius=14&date_format=Y.%20M%20j&disable_animations=true">
+  <img src="https://streak-stats.demolab.com?user=jiwon12011&background=FCFCFD&border=E6E6EA&ring=DB2777&fire=DB2777&currStreakNum=131318&sideNums=131318&currStreakLabel=DB2777&sideLabels=6E6E78&dates=9A9AA4&border_radius=14&date_format=Y.%20M%20j&disable_animations=true" alt="GitHub streak">
 </picture>
 
 </div>
