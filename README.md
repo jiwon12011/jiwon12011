@@ -116,22 +116,14 @@ GSAP 인터랙션과 성능까지 직접 코드로 마감합니다.
   <img src="assets/header-stats-light.svg" width="850" alt="(04) GitHub Stats">
 </picture>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jiwon12011&show_icons=true&title_color=EC4899&icon_color=8B5CF6&text_color=C7C7D1&bg_color=0B0B0E&border_color=1F1F26&border_radius=14&hide_title=false&rank_icon=percentile">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiwon12011&show_icons=true&title_color=DB2777&icon_color=7C3AED&text_color=3F3F48&bg_color=FCFCFD&border_color=E6E6EA&border_radius=14&rank_icon=percentile" width="100%" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiwon12011&background=0B0B0E&border=1F1F26&ring=EC4899&fire=EC4899&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=EC4899&sideLabels=8A8A96&dates=5C5C66&border_radius=14&date_format=Y.%20M%20j">
+  <img src="https://streak-stats.demolab.com?user=jiwon12011&background=FCFCFD&border=E6E6EA&ring=DB2777&fire=DB2777&currStreakNum=131318&sideNums=131318&currStreakLabel=DB2777&sideLabels=6E6E78&dates=9A9AA4&border_radius=14&date_format=Y.%20M%20j" alt="GitHub streak">
 </picture>
-</td>
-<td width="50%" align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiwon12011&background=0B0B0E&border=1F1F26&ring=EC4899&fire=EC4899&currStreakNum=EDEDF2&sideNums=EDEDF2&currStreakLabel=EC4899&sideLabels=8A8A96&dates=5C5C66&border_radius=14">
-  <img src="https://streak-stats.demolab.com?user=jiwon12011&background=FCFCFD&border=E6E6EA&ring=DB2777&fire=DB2777&currStreakNum=131318&sideNums=131318&currStreakLabel=DB2777&sideLabels=6E6E78&dates=9A9AA4&border_radius=14" width="100%" alt="GitHub streak">
-</picture>
-</td>
-</tr>
-</table>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jiwon12011&bg_color=0B0B0E&color=8A8A96&line=EC4899&point=EDEDF2&area=true&area_color=EC4899&hide_border=false&border_color=1F1F26&radius=14&custom_title=Contribution%20Graph">
